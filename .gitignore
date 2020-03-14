@@ -15,3 +15,8 @@ GSYMS
 covhtml/
 coverage.xml
 nosetests.xml
+bin/*
+lib/
+lib64
+pyvenv.cfg
+share
